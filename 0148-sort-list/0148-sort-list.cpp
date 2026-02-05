@@ -8,6 +8,9 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+// time complecity : O(n) + O(nlogn) + O(n)
+// space complexity : O(n)
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
