@@ -30,6 +30,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/dev687612/Leetcode_solutions/tree/master/0258-add-digits) |
 | [3379-transformed-array](https://github.com/dev687612/Leetcode_solutions/tree/master/3379-transformed-array) |
 ## Binary Search
 |  |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/dev687612/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dev687612/Leetcode_solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dev687612/Leetcode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
