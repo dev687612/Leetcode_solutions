@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dev687612/Leetcode_solutions/tree/master/0148-sort-list) |
+| [3721-longest-balanced-subarray-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0287-find-the-duplicate-number](https://github.com/dev687612/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [3379-transformed-array](https://github.com/dev687612/Leetcode_solutions/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dev687612/Leetcode_solutions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3721-longest-balanced-subarray-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -66,4 +68,16 @@
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dev687612/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Hash Table
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
