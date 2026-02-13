@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dev687612/Leetcode_solutions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dev687612/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dev687612/Leetcode_solutions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dev687612/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/dev687612/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -71,6 +73,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/dev687612/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
 |  |
