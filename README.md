@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dev687612/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/dev687612/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dev687612/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
@@ -49,6 +50,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dev687612/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/dev687612/Leetcode_solutions/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [3721-longest-balanced-subarray-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/dev687612/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
