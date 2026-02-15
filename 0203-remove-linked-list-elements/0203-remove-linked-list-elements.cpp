@@ -8,6 +8,9 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+// time complexity = O(n)
+// Space complexity = O(1)
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
