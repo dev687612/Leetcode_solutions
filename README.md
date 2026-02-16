@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dev687612/Leetcode_solutions/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/dev687612/Leetcode_solutions/tree/master/0190-reverse-bits) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
 |  |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dev687612/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/dev687612/Leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/dev687612/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
