@@ -20,11 +20,13 @@
 | ------- |
 | [0148-sort-list](https://github.com/dev687612/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/dev687612/Leetcode_solutions/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/0761-special-binary-string) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dev687612/Leetcode_solutions/tree/master/0148-sort-list) |
+| [0761-special-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/0761-special-binary-string) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dev687612/Leetcode_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Merge Sort
 |  |
@@ -74,6 +76,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/dev687612/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/dev687612/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dev687612/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
 |  |
