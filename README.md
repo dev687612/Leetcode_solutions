@@ -44,6 +44,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/dev687612/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/dev687612/Leetcode_solutions/tree/master/0258-add-digits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dev687612/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/dev687612/Leetcode_solutions/tree/master/3379-transformed-array) |
 ## Binary Search
 |  |
@@ -57,12 +58,14 @@
 | [0287-find-the-duplicate-number](https://github.com/dev687612/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/dev687612/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/dev687612/Leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dev687612/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dev687612/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/dev687612/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/dev687612/Leetcode_solutions/tree/master/0258-add-digits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dev687612/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Number Theory
 |  |
 | ------- |
