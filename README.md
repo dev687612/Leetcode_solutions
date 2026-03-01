@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dev687612/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/dev687612/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/dev687612/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/dev687612/Leetcode_solutions/tree/master/0258-add-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dev687612/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dev687612/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/dev687612/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/dev687612/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 ## Backtracking
 |  |
