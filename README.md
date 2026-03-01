@@ -77,6 +77,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/dev687612/Leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/dev687612/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/dev687612/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/0761-special-binary-string) |
