@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/dev687612/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dev687612/Leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3379-transformed-array](https://github.com/dev687612/Leetcode_solutions/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dev687612/Leetcode_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -118,5 +119,10 @@
 ## Greedy
 |  |
 | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dev687612/Leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dev687612/Leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dev687612/Leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
