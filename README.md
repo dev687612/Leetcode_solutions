@@ -93,6 +93,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dev687612/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
 |  |
@@ -126,4 +127,16 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dev687612/Leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
