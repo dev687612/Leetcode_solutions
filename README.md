@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dev687612/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
 |  |
@@ -131,12 +132,15 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
