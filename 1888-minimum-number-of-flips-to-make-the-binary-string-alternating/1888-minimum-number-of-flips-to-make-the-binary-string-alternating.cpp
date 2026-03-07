@@ -1,18 +1,18 @@
 class Solution {
 public:
     // tc = O(len)
-    // sc = O(2*n)
+    // sc = O(1)
     int minFlips(string s) {
 
         int n = s.length();
 
-        s += s;
+        // s += s;
 
-        string s1, s2;
-        for (int i = 0; i < 2 * n; i++) {
-            s1 += (i % 2 == 0) ? '0' : '1';
-            s2 += (i % 2 == 0) ? '1' : '0';
-        }
+        // string s1, s2;
+        // for (int i = 0; i < 2 * n; i++) {
+        //     s1 += (i % 2 == 0) ? '0' : '1';
+        //     s2 += (i % 2 == 0) ? '1' : '0';
+        // }
 
         // sliding window
 
@@ -24,20 +24,27 @@ public:
         int j = 0;
 
         while (j < 2 * n) {
-            if (s[j] != s1[j]) {
+
+            char exceptedCharS1 = (j % 2 == 0) ? '1' : '0';
+            char exceptedCharS2 = (j % 2 == 0) ? '0' : '1';
+
+            if (s[j % n] != exceptedCharS1) {
                 flip1++;
             }
-            if (s[j] != s2[j]) {
+            if (s[j % n] != exceptedCharS2) {
                 flip2++;
             }
 
             if (j - i + 1 > n) {
                 // shrink the window
-                if (s[i] != s1[i]) {
+                exceptedCharS1 = (i % 2 == 0) ? '1' : '0';
+                exceptedCharS2 = (i % 2 == 0) ? '0' : '1';
+
+                if (s[i % n] != exceptedCharS1) {
                     flip1--;
                 }
 
-                if (s[i] != s2[i]) {
+                if (s[i % n] != exceptedCharS2) {
                     flip2--;
                 }
                 i++;
