@@ -37,6 +37,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/dev687612/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dev687612/Leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1980-find-unique-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [3379-transformed-array](https://github.com/dev687612/Leetcode_solutions/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dev687612/Leetcode_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -90,6 +91,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dev687612/Leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dev687612/Leetcode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/dev687612/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [1980-find-unique-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
 |  |
@@ -126,6 +129,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/dev687612/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0401-binary-watch](https://github.com/dev687612/Leetcode_solutions/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
 | ------- |
