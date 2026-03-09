@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/dev687612/Leetcode_solutions/tree/master/0039-combination-sum) |
 | [0287-find-the-duplicate-number](https://github.com/dev687612/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dev687612/Leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dev687612/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/dev687612/Leetcode_solutions/tree/master/0039-combination-sum) |
 | [0401-binary-watch](https://github.com/dev687612/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 ## Greedy
