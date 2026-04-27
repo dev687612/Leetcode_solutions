@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/dev687612/Leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/dev687612/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dev687612/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/dev687612/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/dev687612/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
@@ -105,6 +106,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dev687612/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dev687612/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
