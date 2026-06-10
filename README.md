@@ -158,6 +158,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dev687612/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -167,4 +168,13 @@
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/dev687612/Leetcode_solutions/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dev687612/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/dev687612/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/dev687612/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
