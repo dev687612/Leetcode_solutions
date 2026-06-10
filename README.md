@@ -163,4 +163,8 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dev687612/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/dev687612/Leetcode_solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
