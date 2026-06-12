@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/dev687612/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/dev687612/Leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/0090-subsets-ii) |
@@ -113,6 +114,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/dev687612/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dev687612/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1980-find-unique-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dev687612/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/dev687612/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/dev687612/Leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/0090-subsets-ii) |
@@ -147,6 +150,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/dev687612/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dev687612/Leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Tree
 |  |
