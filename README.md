@@ -25,6 +25,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/dev687612/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0761-special-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/0761-special-binary-string) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dev687612/Leetcode_solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -38,6 +39,7 @@
 | [0037-sudoku-solver](https://github.com/dev687612/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/dev687612/Leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/dev687612/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/dev687612/Leetcode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -139,6 +141,7 @@
 | [0037-sudoku-solver](https://github.com/dev687612/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/dev687612/Leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/dev687612/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
