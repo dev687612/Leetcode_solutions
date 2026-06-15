@@ -74,6 +74,7 @@
 | [0002-add-two-numbers](https://github.com/dev687612/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/dev687612/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/dev687612/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/dev687612/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/dev687612/Leetcode_solutions/tree/master/0258-add-digits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/dev687612/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Number Theory
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dev687612/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/dev687612/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dev687612/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dev687612/Leetcode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Stack
@@ -184,4 +186,8 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/dev687612/Leetcode_solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dev687612/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
