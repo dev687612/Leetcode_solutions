@@ -95,6 +95,7 @@
 | [0020-valid-parentheses](https://github.com/dev687612/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dev687612/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/dev687612/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0290-word-pattern](https://github.com/dev687612/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0696-count-binary-substrings](https://github.com/dev687612/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dev687612/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/dev687612/Leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dev687612/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0290-word-pattern](https://github.com/dev687612/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [1980-find-unique-binary-string](https://github.com/dev687612/Leetcode_solutions/tree/master/1980-find-unique-binary-string) |
 | [3721-longest-balanced-subarray-ii](https://github.com/dev687612/Leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
